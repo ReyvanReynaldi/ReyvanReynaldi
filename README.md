@@ -30,20 +30,19 @@
   <tr>
     <td width="60%">
 
-- 🎓 Final Year Student (Semester 8)
-- 💻 Fullstack Developer (React, Next.js, Laravel, Node.js)
-- 🌱 Currently learning System Design and Advanced Backend
-- 💬 Ask me about React, NextJS, NodeJS, APIs, and Laravel
-- 📫 Reach me at: **reyvan.dev@gmail.com**
-- ⚡ Fun fact: I also like Music
+- 🎓 Final Year Student (Semester 8)  
+- 💻 Fullstack Developer (React, Next.js, Laravel, Node.js)  
+- 🌱 Currently learning System Design and Advanced Backend  
+- 💬 Ask me about React, NextJS, NodeJS, APIs, and Laravel  
+- 📫 Reach me at: **reyvan.dev@gmail.com**  
+- ⚡ Fun fact: I also like Music  
 
-      </td>
-      <td width="40%" align="center">
-        <img src="assets/gif-profile-github.gif" width="250" />
-      </td>
-
-    </tr>
-  </table>
+    </td>
+    <td width="40%" align="center">
+      <img src="/assets/gif-profile-github.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
