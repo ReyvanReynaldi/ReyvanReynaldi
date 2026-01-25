@@ -30,7 +30,7 @@
   <tr>
     <td width="60%">
 
-- 🎓 Final Year Student (Semester 8)  
+- 🎓 Final Year Student (8th semester)  
 - 💻 Fullstack Developer (React, Next.js, Laravel, Node.js)  
 - 🌱 Currently learning System Design and Advanced Backend  
 - 💬 Ask me about React, NextJS, NodeJS, APIs, and Laravel  
