@@ -14,10 +14,10 @@
   <a href="https://github.com/ReyvanReynaldi" target="_blank">  
     <img src="https://img.shields.io/badge/Website-Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/reyvanreynaldi" target="_blank">
+  <a href="www.linkedin.com/in/reyvan-aldyan-yahya-08bb88224" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:reyvan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
