@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="900" src="/assets/banner-github.png" alt="Banner" />
+  <img width="900" src="/assets/banner-github-2.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hey! I’m Reyvan Reynadi 👋</h1>
